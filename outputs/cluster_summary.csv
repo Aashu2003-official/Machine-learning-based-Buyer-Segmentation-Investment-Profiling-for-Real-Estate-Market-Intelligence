@@ -1,0 +1,5 @@
+cluster_id,segment_name,buyers,buyer_share_pct,avg_age,avg_satisfaction,avg_purchase_count,avg_total_spend,avg_spend_per_property,avg_area_sqft,loan_dependency_pct,investment_intent_pct,international_share_pct,corporate_share_pct,dominant_country,dominant_region,dominant_referral_channel,recommended_action
+3,Portfolio Investors,44,2.2,63.43,3.45,7.5,2477339.0,333321.77,1102.17,34.09,36.36,15.91,2.27,USA,California,Website,"Prioritize bundled inventory, early access launches, and dedicated relationship management."
+2,Premium Buyers,826,41.3,53.83,3.1,3.65,1442019.73,398888.99,1307.63,35.11,29.54,21.55,5.08,USA,California,Website,Recommend larger units and premium inventory with concierge-style follow-up.
+0,Core Growth Buyers,357,17.85,53.99,2.98,3.37,1175395.45,349057.3,1161.02,36.97,30.81,24.09,5.6,USA,California,Website,"Promote balanced investment options, repeat-purchase incentives, and cross-sell campaigns."
+1,Financed Value Seekers,773,38.65,55.29,2.96,3.57,1036253.01,291614.48,972.68,38.68,31.69,24.71,5.17,USA,California,Website,"Lead with affordability messaging, loan assistance, and step-by-step decision support."

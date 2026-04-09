@@ -1,0 +1,11 @@
+{
+  "chosen_k": 4,
+  "optimal_k": 4,
+  "kmeans_silhouette": 0.1713,
+  "hierarchical_silhouette": 0.1285,
+  "model_alignment": 0.5363,
+  "clients": 2000,
+  "properties": 10000,
+  "countries": 10,
+  "regions": 57
+}

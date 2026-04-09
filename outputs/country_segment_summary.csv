@@ -1,0 +1,37 @@
+country,segment_name,buyers,avg_total_spend
+Australia,Core Growth Buyers,10,1047986.28
+Australia,Financed Value Seekers,17,965355.02
+Australia,Premium Buyers,12,1414913.02
+Belgium,Core Growth Buyers,6,1112475.17
+Belgium,Financed Value Seekers,17,1022321.33
+Belgium,Portfolio Investors,1,2900509.1
+Belgium,Premium Buyers,19,1435321.53
+Canada,Core Growth Buyers,23,1179218.32
+Canada,Financed Value Seekers,35,1001028.4
+Canada,Portfolio Investors,1,3251147.83
+Canada,Premium Buyers,26,1431607.01
+Denmark,Core Growth Buyers,1,1355839.1
+Denmark,Financed Value Seekers,4,937400.92
+Denmark,Premium Buyers,10,1499761.07
+France,Core Growth Buyers,7,1281571.63
+France,Financed Value Seekers,23,979566.7
+France,Portfolio Investors,1,2759372.27
+France,Premium Buyers,22,1392663.48
+Germany,Core Growth Buyers,11,1047516.59
+Germany,Financed Value Seekers,22,981748.21
+Germany,Portfolio Investors,1,3082362.35
+Germany,Premium Buyers,22,1394002.96
+Mexico,Core Growth Buyers,7,1119696.43
+Mexico,Financed Value Seekers,21,1114620.29
+Mexico,Premium Buyers,12,1432070.47
+Russia,Core Growth Buyers,10,1211466.99
+Russia,Financed Value Seekers,13,1021337.97
+Russia,Premium Buyers,13,1482289.61
+UK,Core Growth Buyers,11,1126575.45
+UK,Financed Value Seekers,39,1051777.38
+UK,Portfolio Investors,3,2634676.93
+UK,Premium Buyers,42,1445497.53
+USA,Core Growth Buyers,271,1185037.06
+USA,Financed Value Seekers,582,1042294.24
+USA,Portfolio Investors,37,2408256.58
+USA,Premium Buyers,648,1444701.65

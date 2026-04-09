@@ -1,0 +1,163 @@
+region,segment_name,buyers,avg_purchase_count,avg_total_spend
+Alberta,Core Growth Buyers,6,3.17,1210021.19
+Alberta,Financed Value Seekers,14,3.43,952074.66
+Alberta,Premium Buyers,7,3.43,1427805.73
+Arizona,Core Growth Buyers,16,3.44,1316433.96
+Arizona,Financed Value Seekers,43,3.49,1008403.91
+Arizona,Portfolio Investors,1,8.0,2619968.43
+Arizona,Premium Buyers,48,3.56,1386876.83
+Baja California,Core Growth Buyers,2,3.0,1298853.34
+Baja California,Financed Value Seekers,4,3.75,1143600.15
+Baja California,Premium Buyers,1,3.0,1172514.65
+Bavaria,Financed Value Seekers,5,3.4,910536.39
+Bavaria,Premium Buyers,7,3.29,1356935.97
+Berlin,Core Growth Buyers,3,3.0,946069.39
+Berlin,Financed Value Seekers,5,3.4,1078159.34
+Berlin,Premium Buyers,3,3.33,1395074.61
+British Columbia,Core Growth Buyers,3,3.33,1179661.05
+British Columbia,Financed Value Seekers,7,3.57,1074479.48
+British Columbia,Premium Buyers,10,3.8,1440361.24
+Brittany,Core Growth Buyers,1,4.0,1272471.05
+Brittany,Financed Value Seekers,4,3.75,1038340.7
+Brittany,Premium Buyers,11,3.45,1432569.84
+Brussels,Core Growth Buyers,1,4.0,1454358.32
+Brussels,Financed Value Seekers,5,3.8,1002297.01
+Brussels,Portfolio Investors,1,7.0,2900509.1
+Brussels,Premium Buyers,5,4.2,1474600.86
+California,Core Growth Buyers,113,3.42,1198211.43
+California,Financed Value Seekers,233,3.66,1062122.91
+California,Portfolio Investors,20,7.75,2413588.85
+California,Premium Buyers,267,3.76,1478306.52
+Capital Region,Core Growth Buyers,1,3.0,1355839.1
+Capital Region,Premium Buyers,4,3.75,1520792.06
+Central Denmark,Financed Value Seekers,1,3.0,729893.08
+Colorado,Core Growth Buyers,18,3.33,1153891.57
+Colorado,Financed Value Seekers,57,3.7,1083756.94
+Colorado,Premium Buyers,43,3.72,1467182.17
+England,Core Growth Buyers,3,3.67,1221865.08
+England,Financed Value Seekers,13,3.54,1011538.39
+England,Portfolio Investors,1,7.0,2269897.21
+England,Premium Buyers,12,3.58,1458137.36
+Flanders,Core Growth Buyers,2,3.5,1025534.48
+Flanders,Financed Value Seekers,6,3.5,976897.4
+Flanders,Premium Buyers,8,3.62,1429675.66
+Florida,Core Growth Buyers,7,3.29,1251705.11
+Florida,Financed Value Seekers,16,3.62,1087978.68
+Florida,Portfolio Investors,3,6.67,2286172.02
+Florida,Premium Buyers,24,3.54,1401818.63
+Georgia,Core Growth Buyers,11,3.27,1030136.29
+Georgia,Financed Value Seekers,13,3.77,1051080.36
+Georgia,Premium Buyers,10,3.5,1399124.7
+Hamburg,Core Growth Buyers,6,3.33,1118326.29
+Hamburg,Financed Value Seekers,7,3.57,1008369.21
+Hamburg,Premium Buyers,3,3.33,1406154.16
+Hesse,Financed Value Seekers,3,3.0,902386.48
+Hesse,Premium Buyers,4,3.75,1421603.16
+Ile-de-France,Core Growth Buyers,2,3.5,1374826.74
+Ile-de-France,Financed Value Seekers,5,3.2,878411.49
+Ile-de-France,Portfolio Investors,1,7.0,2759372.27
+Ile-de-France,Premium Buyers,7,3.71,1402820.47
+Jalisco,Core Growth Buyers,1,3.0,1267396.8
+Jalisco,Financed Value Seekers,6,3.67,1121194.77
+Jalisco,Premium Buyers,2,4.0,1455332.99
+Kansas,Portfolio Investors,1,8.0,2817926.96
+Krasnodar Krai,Core Growth Buyers,3,3.67,1325060.29
+Krasnodar Krai,Financed Value Seekers,5,3.2,990759.19
+Krasnodar Krai,Premium Buyers,2,4.0,1569741.47
+Manitoba,Core Growth Buyers,6,3.17,1202818.83
+Manitoba,Financed Value Seekers,6,3.17,939898.37
+Manitoba,Premium Buyers,3,3.33,1404697.41
+Mexico City,Financed Value Seekers,4,4.0,1106515.35
+Mexico City,Premium Buyers,3,4.0,1635805.86
+Moscow Oblast,Core Growth Buyers,3,3.33,1178126.54
+Nevada,Core Growth Buyers,25,3.6,1261517.63
+Nevada,Financed Value Seekers,50,3.6,1027440.28
+Nevada,Portfolio Investors,4,6.5,2308310.94
+Nevada,Premium Buyers,64,3.61,1421463.18
+New South Wales,Core Growth Buyers,5,3.2,966066.16
+New South Wales,Financed Value Seekers,4,3.25,889055.24
+New South Wales,Premium Buyers,4,3.25,1260465.63
+New York,Core Growth Buyers,8,3.5,1206931.75
+New York,Financed Value Seekers,17,3.35,981584.92
+New York,Premium Buyers,24,3.5,1447567.77
+Normandy,Financed Value Seekers,3,3.0,852191.1
+Normandy,Premium Buyers,1,3.0,1191384.37
+North Denmark,Financed Value Seekers,2,3.5,1168628.98
+North Denmark,Premium Buyers,2,3.5,1629521.66
+North Rhine-Westphalia,Core Growth Buyers,2,3.5,987258.3
+North Rhine-Westphalia,Financed Value Seekers,2,3.5,944619.03
+North Rhine-Westphalia,Portfolio Investors,1,8.0,3082362.35
+North Rhine-Westphalia,Premium Buyers,5,3.6,1415882.89
+Northern Ireland,Core Growth Buyers,3,3.33,1041966.95
+Northern Ireland,Financed Value Seekers,10,3.6,1099008.61
+Northern Ireland,Premium Buyers,11,3.55,1505103.76
+Novosibirsk,Core Growth Buyers,1,3.0,1006584.7
+Novosibirsk,Financed Value Seekers,2,3.5,942181.02
+Novosibirsk,Premium Buyers,2,4.5,1537947.73
+Nuevo Leon,Core Growth Buyers,3,3.33,937249.66
+Nuevo Leon,Financed Value Seekers,2,4.0,1290798.68
+Nuevo Leon,Premium Buyers,5,3.4,1392578.23
+Occitanie,Core Growth Buyers,2,3.5,1299464.44
+Occitanie,Financed Value Seekers,4,3.25,976677.73
+Occitanie,Premium Buyers,2,3.0,1388059.96
+Ohio,Core Growth Buyers,4,3.5,1091233.86
+Ohio,Financed Value Seekers,10,3.5,934077.37
+Ohio,Premium Buyers,10,3.4,1375315.16
+Ontario,Core Growth Buyers,3,3.67,1198604.15
+Ontario,Financed Value Seekers,4,3.25,1005517.5
+Ontario,Premium Buyers,2,3.5,1302641.75
+Oregon,Core Growth Buyers,16,3.25,1120555.91
+Oregon,Financed Value Seekers,35,3.57,1049025.97
+Oregon,Portfolio Investors,3,7.0,2316997.48
+Oregon,Premium Buyers,42,3.81,1441932.2
+Provence,Core Growth Buyers,2,3.5,1174974.0
+Provence,Financed Value Seekers,7,3.71,1074475.66
+Provence,Premium Buyers,1,3.0,1093080.86
+Puebla,Core Growth Buyers,1,4.0,1161022.51
+Puebla,Financed Value Seekers,5,3.4,1019559.61
+Puebla,Premium Buyers,1,3.0,1231356.24
+Quebec,Core Growth Buyers,5,3.2,1102037.12
+Quebec,Financed Value Seekers,4,3.75,1131033.06
+Quebec,Portfolio Investors,1,11.0,3251147.83
+Quebec,Premium Buyers,4,3.75,1501038.52
+Queensland,Financed Value Seekers,4,3.5,926238.69
+Saint Petersburg,Core Growth Buyers,3,3.33,1199508.25
+Saint Petersburg,Financed Value Seekers,3,4.0,978586.91
+Saint Petersburg,Premium Buyers,4,3.5,1540718.82
+Scotland,Core Growth Buyers,3,3.0,957421.15
+Scotland,Financed Value Seekers,9,3.78,1104505.3
+Scotland,Portfolio Investors,2,7.5,2817066.79
+Scotland,Premium Buyers,11,3.55,1426033.03
+South Australia,Core Growth Buyers,1,3.0,1069904.1
+South Australia,Premium Buyers,2,3.5,1417087.76
+Southern Denmark,Premium Buyers,3,3.33,1359660.77
+Tatarstan,Financed Value Seekers,3,4.0,1167824.96
+Tatarstan,Premium Buyers,5,3.2,1378302.24
+Texas,Core Growth Buyers,12,3.25,1021741.64
+Texas,Financed Value Seekers,22,3.5,1048813.0
+Texas,Portfolio Investors,1,7.0,2047189.62
+Texas,Premium Buyers,21,3.52,1416686.03
+Utah,Core Growth Buyers,8,3.38,1238062.95
+Utah,Financed Value Seekers,39,3.46,994531.28
+Utah,Premium Buyers,40,3.7,1459390.25
+Victoria,Core Growth Buyers,2,3.5,882995.78
+Victoria,Financed Value Seekers,5,3.6,1053997.96
+Victoria,Premium Buyers,6,3.67,1517153.02
+Virginia,Core Growth Buyers,21,3.24,1156072.82
+Virginia,Financed Value Seekers,21,3.43,1039859.03
+Virginia,Portfolio Investors,4,7.5,2576469.81
+Virginia,Premium Buyers,19,3.42,1374765.18
+Wales,Core Growth Buyers,2,3.5,1364285.22
+Wales,Financed Value Seekers,7,3.57,991240.73
+Wales,Premium Buyers,8,3.38,1371342.9
+Wallonia,Core Growth Buyers,3,3.33,1056474.58
+Wallonia,Financed Value Seekers,6,3.5,1084432.19
+Wallonia,Premium Buyers,6,3.83,1410116.56
+Washington,Core Growth Buyers,12,3.17,1157547.31
+Washington,Financed Value Seekers,26,3.27,966157.9
+Washington,Premium Buyers,35,3.46,1375047.17
+Western Australia,Core Growth Buyers,2,3.5,1406818.2
+Western Australia,Financed Value Seekers,4,3.25,969967.44
+Wyoming,Premium Buyers,1,5.0,1762231.92
+Zealand,Financed Value Seekers,1,3.0,682452.64
+Zealand,Premium Buyers,1,4.0,1576416.87
